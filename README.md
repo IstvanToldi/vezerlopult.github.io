@@ -1,1 +1,79 @@
 # vezerlopult.github.io
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stilus.css">
+</head>
+<body>
+    <header>
+        <h1>Toldi István <br>
+            weboldala </h1>
+        <h3>2024. január - 2028. április</h3>
+    </header>
+    <section>
+        <nav>
+            <ul>
+                <li class="btnnav"> <a href="https://sites.google.com/view/webalapok9ati" target="_blank">Digitális kultúra</a></li>
+                <li class="btnnav"> <a href="https://sites.google.com/view/webalapok9ati/digikult" target="_blank"> Web alapok</a></li>
+                <li class="btnnav"> <a href="https://sites.google.com/view/webalapok9ati/ikt-projekt" target="_blank">IKT projektmunka</a></li>
+                <li class="btnnav"> <a href="https://sites.google.com/view/webalapok9ati/ita" target="_blank">ITA</a></li>
+            </ul>
+        </nav>
+        <article>
+            <div class="doboz">
+            <div class="card">
+                <div class="card-text">
+                <img src="digikult.png" alt="card image">
+                    <h2>WEB alapok - saját weboldalam</h2>
+                    <p>A programozási gyakorlat html + css + bootstrap tudnivalónak gyűjteménye mintafeladatokkal</p>
+                    <a href="https://sites.google.com/view/webalapok9ati" target="_blank" class="button">Ugrás az oldalra</a>
+                </div>
+                <div class="card-text">
+                <img src="orarend.png" alt="card image">
+                    <h2>Iskolai aktuális órarend</h2>
+                    <p>Megtalálhatod az osztályok, az oktatók és a tantermek órarendjeit naprakészen</p>
+                    <a href="https://istvantoldi.github.io/orarend.github.io/" target="_blank" class="button">Ugrás az oldalra</a>
+                </div>
+                <div class="card-text">
+                <img src="digisulim.png" alt="card image">
+                    <h2>Oktatási iránytű portál</h2>
+                    <p>Megtalálhatod azon fontos oldalak elérhetőségét, melyek a Digitális Kultúra tantárgyhoz és az Informatikai és távközlés ágazat diákjainak nyújt linkgyűjteményt a tanulmányok során használandó tartalmakhoz, programokhoz</p>
+                    <a href="https://digisulim.hu/" target="_blank" class="button">Ugrás az oldalra</a>
+                </div>
+            </div>
+            </div>
+            <!-- <div class="doboz">
+                <div class="card">
+                    <img src="digikult.png" alt="card image">
+                <div class="card">
+                    <h2">WEB alapok - saját weboldalam<</h2>
+                    <p >A programozási gyakorlat html + css + bootstrap tudnivalónak gyűjteménye mintafeladatokkal<</p>
+                    <a href="https://sites.google.com/view/webalapok9ati" target="_blank" class="button">Ugrás az oldalra</a>
+                    </div>
+                    </div>
+               
+                    <div class="card">
+                        <img src="orarend.png" alt="card image">
+                        <div class="card">
+                    <h2>Iskolai aktuális órarend</h2>
+                    <p>Megtalálhatod az osztályok, az oktatók és a tantermek órarendjeit naprakészen</p>
+                    <a href="https://istvantoldi.github.io/orarend.github.io/" target="_blank" class="button">Ugrás az oldalra</a>
+                    </div>
+                    </div>
+               
+                    <div class="card">
+                        <img src="digisulim.png"card image">
+                        <div class="card">
+                    <h2>Oktatási iránytű portál/h2>
+                    <p>Megtalálhatod azon fontos oldalak elérhetőségét, melyek a Digitális Kultúra tantárgyhoz és az Informatikai és távközlés ágazat diákjainak nyújt linkgyűjteményt a tanulmányok során használandó tartalmakhoz, programokhoz</p>
+                    <a href="https://digisulim.hu/" target="_blank" class="button">Ugrás az oldalra</a>
+                    </div>
+                    </div> -->
+
+        </article>
+    </section>
+    <footer>footer</footer>
+</body>
+</html>
